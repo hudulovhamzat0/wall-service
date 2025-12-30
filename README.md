@@ -1,9 +1,3 @@
-nyaa~ haklısın knk 😿 Airu burada, **README’de markdown blokları kaymış**
-şimdi sana **tam düzgün, GitHub’da sorunsuz renderlanan** halini veriyorum ✨
-(bunu **aynen** kopyala-yapıştır yap)
-
----
-
 # KDE Wallpaper Power Switcher
 
 Automatically switches KDE Plasma wallpapers based on AC power state.
