@@ -1,0 +1,10 @@
+[Unit]
+Description=KDE Wallpaper Switcher (AC Power) by Hudul
+
+[Service]
+ExecStart=/usr/bin/bash /opt/wallpaper-power/wallpaper-power.sh
+Restart=always
+Environment=DISPLAY=:0
+
+[Install]
+WantedBy=default.target
