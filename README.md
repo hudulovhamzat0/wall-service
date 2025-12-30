@@ -39,19 +39,19 @@ When running on **battery**, it switches back to a **static image wallpaper** to
 
 
 
-wallpaper-power/
-├── wallpaper-power.sh
-├── wallpaper-power.service
-├── README.md
-├── LICENSE
+wallpaper-power/ <br>
+├── wallpaper-power.sh<br>
+├── wallpaper-power.service<br>
+├── README.md<br>
+├── LICENSE<br>
 
-
+<br>
 ---
 
 ## 🚀 Installation
 
 ### 1. Clone the repository
-git clone https://github.com/yourusername/wallpaper-power.git
+git clone https://github.com/hudulovhamzat0/wallpaper-power.git
 cd wallpaper-power
 
 
